@@ -3,6 +3,8 @@
 ## Project Intro/Objective
 The purpose of this project is to build a set of data reports to provide answers to city officials' questions about the Citi Bike program in a way that is focused, concise, easy-to-understand, and visually compelling. The Tableau data story answers questions about New York bike usage during the summer and winter seasons, times, locations and demographics to allow Citi Bike to determine the best approach to further increase ridership growth and overall revenue.
 
+Click [here](https://public.tableau.com/views/CitiBikeAnalytics_16282203108910/PeakHours?:language=en-US&:display_count=n&:origin=viz_share_link) to view completed dashboard
+
 ## Technologies
 Tableau
 Python
